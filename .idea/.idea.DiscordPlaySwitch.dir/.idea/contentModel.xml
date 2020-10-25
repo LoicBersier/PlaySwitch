@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$USER_HOME$/.cache/JetBrains/Rider2020.2/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/.cache/JetBrains/Rider2020.2/resharper-host/local/Transient/Rider/v202/SolutionCaches/_.19.00" t="ExcludeRecursive" />
+    <e p="$PROJECT_DIR$" t="IncludeFlat">
+      <e p="DiscordPlaySwitch" t="IncludeRecursive">
+        <e p="DiscordPlaySwitch.csproj" t="IncludeRecursive" />
+        <e p="Program.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="ffmpeg.exe" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="DiscordPlaySwitch.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="SysBot.Base" t="IncludeRecursive">
+        <e p="Connection" t="Include">
+          <e p="SwitchBotConfig.cs" t="Include" />
+          <e p="SwitchConfigureParameter.cs" t="Include" />
+          <e p="SwitchConnection.cs" t="Include" />
+          <e p="SwitchConnectionAsync.cs" t="Include" />
+          <e p="SwitchConnectionBase.cs" t="Include" />
+        </e>
+        <e p="Control" t="Include">
+          <e p="BotList.cs" t="Include" />
+          <e p="BotRunner.cs" t="Include" />
+          <e p="BotSource.cs" t="Include" />
+        </e>
+        <e p="Enums" t="Include">
+          <e p="SwitchButton.cs" t="Include" />
+          <e p="SwitchStick.cs" t="Include" />
+        </e>
+        <e p="SwitchRoutineExecutor.cs" t="Include" />
+        <e p="Synchronization" t="Include">
+          <e p="BotSyncOption.cs" t="Include" />
+          <e p="BotSynchronizer.cs" t="Include" />
+          <e p="ISynchronizationSetting.cs" t="Include" />
+        </e>
+        <e p="SysBot.Base.csproj" t="IncludeRecursive" />
+        <e p="Util" t="Include">
+          <e p="Decoder.cs" t="Include" />
+          <e p="EchoUtil.cs" t="Include" />
+          <e p="LogUtil.cs" t="Include" />
+          <e p="NLog.config" t="Include" />
+          <e p="SwitchCommand.cs" t="Include" />
+        </e>
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netstandard2.0" t="Include">
+              <e p="SysBot.Base.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
